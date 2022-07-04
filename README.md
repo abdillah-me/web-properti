@@ -7,4 +7,6 @@ Latihan slicing design dari UI figma ke dalam bentuk codingan menggunakan :
 3. Javascript
 4. Bootstrap V5
 
-Website sudah mendukung fitur responsive design
+Website sudah mendukung fitur responsive design Untuk mengakses website dapat mengunjungan link berikut :
+
+https://me-abdillah.github.io/web-properti/
